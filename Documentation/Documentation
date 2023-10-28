@@ -1,0 +1,64 @@
+Ad Campaign Performance Analysis Documentation
+Project Overview
+This documentation provides an in-depth understanding of the Ad Campaign Performance Analysis project. The project's primary objective was to analyze marketing data to identify underperforming ad campaigns and make data-driven recommendations for optimization. Here, we outline the project's purpose, data sources, methodology, and key findings.
+
+Purpose
+The purpose of this project was to:
+
+Analyze marketing data from Excelerate and Globalshala to assess the performance of ad campaigns.
+Identify underperforming campaigns and provide recommendations for potential discontinuation or optimization.
+Enhance our understanding of data analysis, data visualization, and problem-solving in the context of marketing campaigns.
+Data Source
+The dataset used for this analysis is available in the "Data" folder and is named "ad_campaign_data.csv." The dataset includes various columns such as campaign details, impressions, clicks, costs, and conversion rates.
+
+Methodology
+Data Cleaning and Preparation
+Before analysis, the data underwent the following preprocessing steps:
+
+Data cleaning to handle missing values and outliers.
+Data transformation to ensure consistency and accuracy.
+Feature engineering to create relevant metrics for analysis.
+
+Data Analysis
+The analysis was conducted using a combination of tools, including SQL, Python, Excel, and Power BI. Key analysis steps included:
+
+SQL queries to retrieve and filter data from the database.
+Python for data manipulation, statistical analysis, and data visualization.
+Excel for creating pivot tables and charts to gain insights.
+Power BI for developing an interactive dashboard to visualize campaign performance.
+
+Key Metrics
+Throughout the analysis, we focused on the following key performance metrics:
+
+Click-through rate (CTR).
+Conversion rate.
+Return on investment (ROI).
+Cost per acquisition (CPA).
+
+Key Findings
+The analysis resulted in several key findings and recommendations:
+
+Identified underperforming ad campaigns with low CTR and high CPA, suggesting they may not be cost-effective.
+
+Recommended discontinuation of specific campaigns to allocate resources more efficiently.
+
+Highlighted the importance of optimizing campaigns with higher ROI and CTR to maximize returns.
+
+Created an interactive Power BI dashboard for ongoing monitoring and decision-making.
+
+How to Reproduce the Analysis
+To reproduce the analysis and visualize the results:
+
+Clone this repository to your local machine.
+
+Install the necessary dependencies listed in "requirements.txt."
+
+Open and run the Jupyter Notebook "Ad_Campaign_Analysis.ipynb" located in the "Analysis" folder.
+
+Conclusion
+The Ad Campaign Performance Analysis project has provided valuable insights into the efficiency and effectiveness of marketing campaigns. By identifying underperforming campaigns and recommending optimization strategies, we aim to contribute to better decision-making and resource allocation.
+
+For any questions, feedback, or collaboration opportunities, please contact Ishank2610@gmail.com.
+
+Thank you for your interest in the project.
+
